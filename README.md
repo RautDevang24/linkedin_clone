@@ -17,8 +17,4 @@ LinkedIn Clone is a template for a LinkedIn-like web page built using HTML, CSS,
 2. Modify HTML, CSS, and JavaScript files as per your project requirements.
 3. Replace placeholder images with your own or use appropriate URLs.
 
-## How to Contribute
-We welcome contributions! Report bugs or suggest improvements by creating an issue. Submit pull requests for enhancements.
 
-## Contact
-For questions or inquiries, contact me at [vimalansenthil@gmail.com](mailto:vimalansenthil@gmail.com).
